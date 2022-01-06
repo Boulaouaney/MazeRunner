@@ -1,0 +1,29 @@
+{
+    "FinalProject_Maze": {
+        "checkpoints": [
+            {
+                "steps": 613821,
+                "file_path": "results\\NewMazeRunner\\FinalProject_Maze\\FinalProject_Maze-613821.onnx",
+                "reward": null,
+                "creation_time": 1639478601.7266762,
+                "auxillary_file_paths": [
+                    "results\\NewMazeRunner\\FinalProject_Maze\\FinalProject_Maze-613821.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 613821,
+            "file_path": "results\\NewMazeRunner\\FinalProject_Maze.onnx",
+            "reward": null,
+            "creation_time": 1639478601.7266762,
+            "auxillary_file_paths": [
+                "results\\NewMazeRunner\\FinalProject_Maze\\FinalProject_Maze-613821.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
